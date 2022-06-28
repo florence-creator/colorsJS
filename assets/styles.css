@@ -6,7 +6,7 @@ body {
   ;
 }
 .mainbody {
-  /* display: flex; */
+   display: flex; 
 }
 @media (min-width: 768px) {
   body {
@@ -21,8 +21,7 @@ h1 {
       w
   } */
 
-main {
-}
+
 
 .rgb {
   font-size: 1.4rem;
