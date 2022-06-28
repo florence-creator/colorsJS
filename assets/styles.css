@@ -1,7 +1,9 @@
 body {
+  background-color: aquamarine;
   font-family: Arial;
   text-align: center;
   margin: 10px;
+  ;
 }
 .mainbody {
   /* display: flex; */
